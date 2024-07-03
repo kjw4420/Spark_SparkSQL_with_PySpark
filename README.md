@@ -58,6 +58,7 @@
   * ROW_NUMBER 이용
 - 다음 형태의 결과 도출
 <img width="461" alt="스크린샷 2024-07-04 오전 1 12 19" src="https://github.com/kjw4420/Spark_SparkSQL_with_PySpark/assets/97749184/751e77e2-ce6e-44e7-9790-f70a7546d320">
+
 ---   
 ### 6. PySpark_Hive_테이블
 - DataFrame을 Managed Table로 저장
